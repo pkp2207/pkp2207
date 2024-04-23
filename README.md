@@ -12,9 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkp2207)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A little laughter never hurt anyone
-<div align = "center">
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align = "center"/>
 
 <!--
 **pkp2207/pkp2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
