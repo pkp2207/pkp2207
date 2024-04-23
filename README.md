@@ -3,8 +3,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Aspiring Software Engineer with strong logic building and problem solving skills 
+- 🔭 &nbsp; Aspiring Software Engineer with strong logic building and problem solving skills
+
+  
 - ⚡ &nbsp; With a drive to build full stack solutions for user facing problems, using a fail fast approach.
+
+  
 - 🎓 &nbsp; Computer Science & Engineering Student @ SVNIT, Surat.
 
 
