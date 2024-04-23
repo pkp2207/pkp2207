@@ -3,9 +3,9 @@
 
 ### 👩‍💻 About Me :
 
-🔭 I am a Computer Science & Engineering student @ SVNIT, Surat.
-🌱 Aspiring Software Engineer with strong logic building and problem solving skills 
-⚡ With a drive to build full stack solutions for user facing problems, using a fail fast approach.
+-🔭 &nbsp; I am a Computer Science & Engineering student @ SVNIT, Surat.
+-🌱 &nbsp; Aspiring Software Engineer with strong logic building and problem solving skills 
+-⚡ &nbsp;With a drive to build full stack solutions for user facing problems, using a fail fast approach.
 
 
 ### 🔥  My Stats :
