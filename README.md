@@ -1,13 +1,10 @@
 <h2> Hey there! This is Param. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 
-<img src="https://komarev.com/ghpvc/?username=pkp2207&style=flat-square&color=blue" alt=""/>
-
 ### 👩‍💻 About Me :
 
-I am a Computer Science & Engineering student @ SVNIT, Surat.
-
-🌱 Aspiring Software Engineer with strong logic building and problem solving skills.
+🔭 I am a Computer Science & Engineering student @ SVNIT, Surat.
+🌱 Aspiring Software Engineer with strong logic building and problem solving skills 
 ⚡ With a drive to build full stack solutions for user facing problems, using a fail fast approach.
 
 
