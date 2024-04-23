@@ -1,15 +1,29 @@
-### Hi there 👋
+<h2> Hey there! This is Param. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=pkp2207&style=flat-square&color=blue" alt=""/>
+
+### 👩‍💻 About Me :
+
+I am a Computer Science & Engineering student @ SVNIT, Surat.
+
+🌱 Aspiring Software Engineer with strong logic building and problem solving skills.
+⚡ With a drive to build full stack solutions for user facing problems, using a fail fast approach.
+
 
 ### 🔥  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkp2207&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkp2207)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/dkp1903" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/dkp1903/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/dkp1903/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:dushyantpathak6789@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 ### A little laughter never hurt anyone
 
