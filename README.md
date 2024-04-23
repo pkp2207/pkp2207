@@ -6,7 +6,14 @@
 -🔭 &nbsp; I am a Computer Science & Engineering student @ SVNIT, Surat.
 -🌱 &nbsp; Aspiring Software Engineer with strong logic building and problem solving skills 
 -⚡ &nbsp;With a drive to build full stack solutions for user facing problems, using a fail fast approach.
+<h3> 👨🏻‍💻 About </h3>
 
+- 🔭 &nbsp; Experienced with : React, Angular, Java, NodeJS, Python
+- 🤔 &nbsp; Blog on [DKProbes](https://dkprobes.netlify.app)
+- 🎓 &nbsp; 2021 Grad, @DA-IICT, India
+- 💼 &nbsp; Software Engineer @[Deutsche India](https://db.com)
+- 💼 &nbsp; Internship Experience at [Crio](https://crio.do), [Oye Rickshaw](https://oyerickshaw.com), [Appbase](https://appbase.io), [Deutsche Bank](https://db.com)
+- 🌱 &nbsp; Write JS, Java, Python, C++
 
 ### 🔥  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkp2207&theme=dark&background=000000)](https://git.io/streak-stats)
