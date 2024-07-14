@@ -12,7 +12,7 @@
 - 🎓 &nbsp; Computer Science & Engineering Student @ SVNIT, Surat.
 
 
-- 📫 &nbsp; My Portfolio Website:- https://pkp-portfolio.netlify.app/
+- 📫 &nbsp; My Portfolio Website:- https://pkp-portfolio-two.vercel.app/
 
 
 ### :hammer_and_wrench: Languages and Tools :
