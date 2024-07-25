@@ -57,8 +57,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkp2207)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥  My Fav Projects :
-https://github.com/pkp2207/PKPCare
 
 
 <!--
